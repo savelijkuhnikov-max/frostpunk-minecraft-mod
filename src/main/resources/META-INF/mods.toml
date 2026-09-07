@@ -1,0 +1,18 @@
+{
+  "modLoaderVersion": "[47,)",
+  "license": "MIT",
+  "showAsResourcePack": false,
+  "issueTrackerURL": "https://github.com/savelijkuhnikov-max/frostpunk-minecraft-mod/issues",
+  "mods": [
+    {
+      "modId": "frostpunk_mod",
+      "version": "${version}",
+      "displayName": "Frostpunk Mod",
+      "displayURL": "https://github.com/savelijkuhnikov-max/frostpunk-minecraft-mod",
+      "logoFile": "logo.png",
+      "credits": "Created by Frostpunk Mod Team",
+      "authors": ["Savelijkuhnikov-Max"],
+      "description": "A hardcore winter survival mod inspired by Frostpunk featuring eternal blizzards, survival mechanics, story-driven gameplay and extreme difficulty."
+    }
+  ]
+}
